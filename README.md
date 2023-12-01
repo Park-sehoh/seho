@@ -24,7 +24,7 @@
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
->[프로젝트 상세 설명](https://github.com/Park-sehoh/potopolio.io/blob/eef78d82d6193409e695adab51dc711ba75f24ab/index.html#L19) 참고
+>[프로젝트 상세 설명](https://github.com/Park-sehoh/potopolio.io/blob/87bbd83d7c4aae0a463f2c4fea86ee730cbca036/index.html#L29) 참고
 
 ---
 
